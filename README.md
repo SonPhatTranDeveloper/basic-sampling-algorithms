@@ -5,6 +5,7 @@ This repository contains the code for basic sampling algorithms written in Pytho
 The algorithms (currently) include:
 - inverse transform sampling
 - importance sampling
+- Metropolis-Hastings sampling
 
 ## How to run the code
 1) Install the Python modules in ```requirements.txt```
